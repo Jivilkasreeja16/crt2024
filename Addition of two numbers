@@ -1,0 +1,15 @@
+Addition of two numbers
+#include <stdio.h>
+
+int main()
+{
+    int a,b;
+    printf("Enter two no's");
+    scanf("%d%d",&a,&b);
+    int r=a+b;
+    printf("Addition=%d",r);
+    printf("%d",r);
+
+
+    return 0;
+}
