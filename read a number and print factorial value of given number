@@ -1,0 +1,19 @@
+read a number and print factorial value of given number
+#include <stdio.h>
+#include<math.h>
+
+int main()
+{
+    int n,1;
+    scanf("%d",&n);
+    while(a<=n)
+    {
+        
+    fact=fact*n;
+    n=n-1;
+    }
+    printf("%d",fact);
+
+
+    return 0;
+}
