@@ -1,0 +1,29 @@
+Sum of series
+#include <stdio.h>
+#include<math.h>
+
+int main()
+{
+    int i,n,r=0;
+    scanf("%d",&n);
+    for(i=0;i<=n;i++)
+    
+    {
+       printf("%d",r);
+       r=r+i;
+       
+        
+        
+    }
+        
+        
+             
+        
+        
+
+        
+        
+    
+
+    return 0;
+}
