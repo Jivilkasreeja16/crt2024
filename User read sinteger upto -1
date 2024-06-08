@@ -1,0 +1,16 @@
+User reads integer elements up tp -1
+#include <stdio.h>
+
+int main()
+{
+    int a,i;
+    while(1) //for(;;)
+    {
+        scanf("%d",&a);
+        if(a==-1)
+        break;
+    }
+    
+
+    return 0;
+}
