@@ -1,0 +1,17 @@
+structures
+structure is a way to group the differebnt data elements
+syntax:
+struct structurename
+{
+datatype member-1;
+dtatype member-2;
+-------
+-------
+};
+ex:
+struct Employee
+{
+int empno;
+char name[30];
+float salary;
+};
